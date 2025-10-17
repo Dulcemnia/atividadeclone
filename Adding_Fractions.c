@@ -21,6 +21,8 @@ num_result, denom_result ;
 		denom_result = denominator1 * denominator2;
 	}
 	printf("The result of %d / %d  + %d / %d  is: %d / %d \n", numerator1,denominator1, numerator2, denominator2,num_result,denom_result);
+
+	printf("abcdedasdwef \n");
 	return 0;
 }
 
